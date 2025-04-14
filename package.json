@@ -13,7 +13,7 @@
     "@astrojs/check": "^0.9.1",
     "@astrojs/tailwind": "^6.0.0",
     "astro": "^5.0.4",
-    "sharp": "^0.33.2",
+    "sharp": "^0.34.1",
     "tailwindcss": "^4.0.3",
     "tippy.js": "^6.3.7",
     "typescript": "^5.3.3"

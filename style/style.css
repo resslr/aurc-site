@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 /* Media Scaling */
 @media(min-width:2001px){
     :root{

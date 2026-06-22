@@ -1,0 +1,5 @@
+allowBuilds:
+  esbuild: set this to true or false
+minimumReleaseAgeExclude:
+  - '@astrojs/markdown-satteri@0.3.1'
+  - astro@7.0.0

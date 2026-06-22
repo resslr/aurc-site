@@ -1,7 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    './src/**/*.{astro,html,ts,tsx,js,jsx}',
+    "./src/**/*.{astro,html,ts,tsx,js,jsx}",
+    "../layouts/**/*.astro", // Add Astro layout files
   ],
   theme: {
     extend: {
